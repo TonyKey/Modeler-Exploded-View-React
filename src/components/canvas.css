@@ -1,0 +1,203 @@
+.canvas-canvas {
+  display: flex;
+  padding: 12px 12px 12px 10px;
+  overflow: hidden;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(242, 242, 242, 1);
+}
+ 
+.canvas-framecanvasinnerframe {
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.canvas-frametabcontainer {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.canvas-frame-tabs {
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.canvas-container1 {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.canvas-frame-tab1 {
+  height: 44px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(24, 103, 205, 1);
+  border-style: solid;
+  border-width: 2px 0 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.canvas-container2 {
+  gap: 4px;
+  display: flex;
+  padding: 9px 8px;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.canvas-iconslot {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.canvas-table1 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.canvas-table2 {
+  top: 3.5000038146972656px;
+  left: 3.5000152587890625px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+ 
+.canvas-labelwrapper {
+  gap: 8px;
+  display: flex;
+  padding: 0 16px 0 0;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.canvas-text1 {
+  color: rgba(24, 103, 205, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 600;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.canvas-frame-icon {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.canvas-morevertoutline {
+  width: 24px;
+  height: 24px;
+}
+ 
+.canvas-frame-tab2 {
+  height: 44px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+ 
+.canvas-frametabcontent {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.canvas-frame1158 {
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.canvas-frame1161 {
+  gap: 529px;
+  display: flex;
+  padding: 6px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(233, 233, 233, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+ 
+.canvas-frame1171276206 {
+  gap: 12px;
+  display: flex;
+  align-items: center;
+}
+ 
+.canvas-frame-button {
+  display: flex;
+  padding: 4px 5px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.canvas-base {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.canvas-text2 {
+  color: rgba(33, 150, 243, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 500;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.canvas-master-current-display-table {
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.canvas-text3 {
+  display: inline-block;
+}
+ 
+.canvas-text4 {
+  display: inline-block;
+}

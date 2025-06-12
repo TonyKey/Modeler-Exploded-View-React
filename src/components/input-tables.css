@@ -1,0 +1,244 @@
+.input-tables-input-tables {
+  height: 1036px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  box-shadow: 2px 0px 2px 0px rgba(0, 0, 0, 0.15000000596046448) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(204, 204, 204, 1);
+  border-style: solid;
+  border-width: 0 1px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.input-tables-framesectionheader {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(38, 142, 205, 1);
+}
+ 
+.input-tables-ui-left-panel-header {
+  gap: 16px;
+  display: flex;
+  padding: 20px 16px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.input-tables-text1 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.input-tables-frame-button {
+  display: flex;
+  padding: 4px 10px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.input-tables-base {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.input-tables-text2 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 500;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.input-tables-frame-custom-sidenav {
+  width: 256px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.input-tables-ul {
+  display: flex;
+  padding: 8px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.input-tables-frame-custom-expandable-nav-item {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.input-tables-frame-accordionheader {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 4px;
+  flex-direction: column;
+}
+ 
+.input-tables-container1 {
+  gap: 8px;
+  display: flex;
+  padding: 4px 0;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.input-tables-left-content1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.input-tables-frame-icon {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.input-tables-chevronupoutline {
+  width: 24px;
+  height: 24px;
+}
+ 
+.input-tables-list-item-text1 {
+  width: 208px;
+  display: flex;
+  padding: 4px 0;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.input-tables-text3 {
+  color: rgba(0, 0, 0, 0.8700000047683716);
+  height: auto;
+  font-size: 14px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 142.99999475479126%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.input-tables-frame-list-item {
+  display: flex;
+  padding: 0 4px 0 8px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 4px;
+  flex-direction: column;
+}
+ 
+.input-tables-container2 {
+  gap: 8px;
+  display: flex;
+  padding: 4px 0;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.input-tables-left-content2 {
+  width: 24px;
+  height: 24px;
+}
+ 
+.input-tables-list-item-text2 {
+  width: 160px;
+  display: flex;
+  padding: 4px 0;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.input-tables-text4 {
+  color: rgba(0, 0, 0, 0.8700000047683716);
+  height: auto;
+  font-size: 14px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 142.99999475479126%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.input-tables-frame-chip {
+  display: flex;
+  padding: 3px 4px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 100px;
+  background-color: rgba(0, 0, 0, 0.07999999821186066);
+}
+ 
+.input-tables-typography {
+  display: flex;
+  padding: 0 6px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.input-tables-text5 {
+  display: inline-block;
+}
+ 
+.input-tables-text6 {
+  display: inline-block;
+}
+ 
+.input-tables-text7 {
+  display: inline-block;
+}
+ 
+.input-tables-text8 {
+  display: inline-block;
+}
