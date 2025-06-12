@@ -1,0 +1,44 @@
+.frame-navi-frame-navi {
+  height: 1036px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  min-width: 400px;
+  align-self: stretch;
+  box-shadow: 2px 0px 2px 0px rgba(0, 0, 0, 0.15000000596046448) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 0 0 0 1px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.frame-navi-framedrawerheader {
+  height: 44px;
+  display: flex;
+  padding: 0 24px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.frame-navi-text1 {
+  color: rgba(106, 105, 105, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame-navi-text2 {
+  display: inline-block;
+}
